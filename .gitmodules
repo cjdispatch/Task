@@ -1,0 +1,12 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = https://github.com/cjdispatch/Task_Nr_1.git
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/cjdispatch/Task_Nr_2.git
+[submodule "submodule3"]
+	path = submodule3
+	url = https://github.com/cjdispatch/Task_Nr_3.git
+[submodule "submodule4"]
+	path = submodule4
+	url = https://github.com/cjdispatch/Task_Nr_4.git
